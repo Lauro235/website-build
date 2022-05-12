@@ -13,4 +13,5 @@ Two buttons:
 2. Camping ticket
 
 Button on left hand side. Text reads from bottom to top/vertically
+position: fixed or sticky?;
 
