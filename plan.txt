@@ -1,0 +1,16 @@
+High level view
+
+Logo and menu side by side.
+
+Text
+<span> date (big)
+Short location
+USP' blurb/description: Hundreds of bands, the best festival food in the UK
+Name of festival - Biggest headline
+
+Two buttons:
+1. Day ticket
+2. Camping ticket
+
+Button on left hand side. Text reads from bottom to top/vertically
+
